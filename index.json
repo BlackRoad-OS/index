@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-31T01:26:38Z",
+  "generated_at": "2026-02-01T01:54:00Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
-      "description": "Blackbox Enterprises 🖤 - Stealth projects & advanced R&D | The secret sauce",
+      "description": "🖤 BlackBox Enterprises - Enterprise AI & automation solutions",
       "repos": [
         {
           "name": "blackbox-n8n",
@@ -81,7 +81,7 @@
     },
     {
       "name": "BlackRoad-AI",
-      "description": "BlackRoad AI 🛣️ - Open-source AI models & tools | Building sovereign intelligence for everyone",
+      "description": "🤖 BlackRoad AI - Advanced AI/ML products and research",
       "repos": [
         {
           "name": "BlackRoad.io",
@@ -503,7 +503,7 @@
     },
     {
       "name": "BlackRoad-OS",
-      "description": "BlackRoad 🛣️ - The Road to AI Sovereignty | Open-source AI infrastructure (Not BlackRock the investment firm)",
+      "description": "🛣️ BlackRoad OS - The future of operating systems and infrastructure",
       "repos": [
         {
           "name": "blackroad-prism-console",
@@ -1309,7 +1309,7 @@
     },
     {
       "name": "BlackRoad-Labs",
-      "description": "BlackRoad Labs 🛣️ - Experimental AI & quantum research | Where innovation happens",
+      "description": "🔬 BlackRoad Labs - Research, development, and experimental technologies",
       "repos": [
         {
           "name": ".github",
@@ -1419,7 +1419,7 @@
     },
     {
       "name": "BlackRoad-Cloud",
-      "description": "BlackRoad Cloud 🛣️ - Sovereign cloud infrastructure | Decentralized, quantum-native computing",
+      "description": "☁️ BlackRoad Cloud - Cloud-native infrastructure and platform services",
       "repos": [
         {
           "name": ".github",
@@ -1585,7 +1585,7 @@
     },
     {
       "name": "BlackRoad-Ventures",
-      "description": "BlackRoad Ventures 🛣️ - Startup tools & business infrastructure | Build your sovereign business",
+      "description": "💼 BlackRoad Ventures - Startup incubation and venture capital",
       "repos": [
         {
           "name": ".github",
@@ -1687,7 +1687,7 @@
     },
     {
       "name": "BlackRoad-Foundation",
-      "description": "BlackRoad Foundation 🛣️ - Core infrastructure & tools | The foundation of AI sovereignty",
+      "description": "🏛️ BlackRoad Foundation - Open source initiatives and community programs",
       "repos": [
         {
           "name": ".github",
@@ -1813,7 +1813,7 @@
     },
     {
       "name": "BlackRoad-Media",
-      "description": "BlackRoad Media 🛣️ - Open-source media & communication platforms | Sovereign content creation",
+      "description": "📺 BlackRoad Media - Content creation, streaming, and digital media",
       "repos": [
         {
           "name": ".github",
@@ -1955,7 +1955,7 @@
     },
     {
       "name": "BlackRoad-Hardware",
-      "description": "BlackRoad Hardware 🛣️ - Physical AI devices & IoT | ESP32, Raspberry Pi, quantum hardware",
+      "description": "⚡ BlackRoad Hardware - IoT, embedded systems, and hardware solutions",
       "repos": [
         {
           "name": ".github",
@@ -2065,7 +2065,7 @@
     },
     {
       "name": "BlackRoad-Education",
-      "description": "BlackRoad Education 🛣️ - Learning platforms & resources | Democratizing AI education",
+      "description": "🎓 BlackRoad Education - EdTech platforms and learning management systems",
       "repos": [
         {
           "name": ".github",
@@ -2159,7 +2159,7 @@
     },
     {
       "name": "BlackRoad-Gov",
-      "description": "BlackRoad Gov 🛣️ - Governance & decision-making tools | Decentralized organization systems",
+      "description": "🏛️ BlackRoad Gov - Government and civic technology solutions",
       "repos": [
         {
           "name": ".github",
@@ -2245,7 +2245,7 @@
     },
     {
       "name": "BlackRoad-Security",
-      "description": "BlackRoad Security 🛣️ - Open-source security tools | Sovereign encryption & authentication",
+      "description": "🔒 BlackRoad Security - Cybersecurity products and security research",
       "repos": [
         {
           "name": ".github",
@@ -2387,7 +2387,7 @@
     },
     {
       "name": "BlackRoad-Interactive",
-      "description": "BlackRoad Interactive 🛣️ - Gaming & interactive experiences | Sovereign game development",
+      "description": "🎮 BlackRoad Interactive - Gaming, metaverse, and interactive experiences",
       "repos": [
         {
           "name": ".github",
@@ -2505,7 +2505,7 @@
     },
     {
       "name": "BlackRoad-Archive",
-      "description": "BlackRoad Archive 🛣️ - Data preservation & distributed storage | IPFS, blockchain, archival",
+      "description": "📦 BlackRoad Archive - Archived and legacy projects",
       "repos": [
         {
           "name": ".github",
@@ -2583,7 +2583,7 @@
     },
     {
       "name": "BlackRoad-Studio",
-      "description": "BlackRoad Studio 🛣️ - Creative tools & design systems | Open-source design for everyone",
+      "description": "🎨 BlackRoad Studio - Design, creative tools, and digital content creation",
       "repos": [
         {
           "name": ".github",
