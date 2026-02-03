@@ -1,3 +1,9 @@
+# index
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/index)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/index)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # 🛣️ BlackRoad Empire Index
 
 > **Master index of all BlackRoad organizations, repositories, and infrastructure**
