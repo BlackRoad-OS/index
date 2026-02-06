@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T00:20:10Z",
+  "generated_at": "2026-02-06T00:17:56Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
@@ -519,7 +519,7 @@
           "visibility": "private",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-core",
-          "updated_at": "2026-02-03T16:56:54Z"
+          "updated_at": "2026-02-05T23:29:12Z"
         },
         {
           "name": "blackroad-os-prism-console",
@@ -527,7 +527,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-prism-console",
-          "updated_at": "2026-02-03T05:57:03Z"
+          "updated_at": "2026-02-05T23:29:20Z"
         },
         {
           "name": "blackroad-os-operator",
@@ -551,7 +551,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-web",
-          "updated_at": "2026-02-03T16:12:38Z"
+          "updated_at": "2026-02-05T23:28:54Z"
         },
         {
           "name": "blackroad-os-docs",
@@ -559,7 +559,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-docs",
-          "updated_at": "2026-02-03T16:12:43Z"
+          "updated_at": "2026-02-05T23:28:56Z"
         },
         {
           "name": "blackroad-os-demo",
@@ -735,7 +735,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-helper",
-          "updated_at": "2026-02-03T16:24:39Z"
+          "updated_at": "2026-02-05T23:29:08Z"
         },
         {
           "name": "blackroad-os-mesh",
@@ -743,7 +743,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-mesh",
-          "updated_at": "2026-02-03T16:14:18Z"
+          "updated_at": "2026-02-05T23:29:06Z"
         },
         {
           "name": "blackroad-cli",
@@ -751,7 +751,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-cli",
-          "updated_at": "2026-02-03T16:56:08Z"
+          "updated_at": "2026-02-05T23:28:59Z"
         },
         {
           "name": "lucidia-core",
@@ -759,7 +759,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/lucidia-core",
-          "updated_at": "2026-02-02T16:18:30Z"
+          "updated_at": "2026-02-05T23:29:23Z"
         },
         {
           "name": "blackroad-agents",
@@ -767,7 +767,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-agents",
-          "updated_at": "2026-02-03T16:12:58Z"
+          "updated_at": "2026-02-05T23:29:03Z"
         },
         {
           "name": "blackroad-pi-ops",
@@ -1007,7 +1007,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-deploy",
-          "updated_at": "2026-02-03T17:02:45Z"
+          "updated_at": "2026-02-05T23:29:15Z"
         },
         {
           "name": "blackroad-os-container",
@@ -1015,7 +1015,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-container",
-          "updated_at": "2026-02-02T16:04:55Z"
+          "updated_at": "2026-02-05T23:29:17Z"
         },
         {
           "name": "blackroad-os-metaverse",
@@ -1135,7 +1135,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad-ecosystem-dashboard",
-          "updated_at": "2026-02-02T16:19:20Z"
+          "updated_at": "2026-02-05T23:29:26Z"
         },
         {
           "name": "alice",
