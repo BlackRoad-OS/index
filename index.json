@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T00:25:01Z",
+  "generated_at": "2026-02-11T00:24:33Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
@@ -498,6 +498,14 @@
           "language": null,
           "url": "https://github.com/BlackRoad-AI/.github",
           "updated_at": "2026-02-03T03:34:46Z"
+        },
+        {
+          "name": "blackroad-vllm-mvp",
+          "description": "High-performance AI inference with Cloudflare Workers AI",
+          "visibility": "private",
+          "language": "JavaScript",
+          "url": "https://github.com/BlackRoad-AI/blackroad-vllm-mvp",
+          "updated_at": "2026-02-10T01:14:02Z"
         }
       ]
     },
@@ -519,7 +527,7 @@
           "visibility": "private",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-core",
-          "updated_at": "2026-02-05T23:29:12Z"
+          "updated_at": "2026-02-10T20:06:30Z"
         },
         {
           "name": "blackroad-os-prism-console",
@@ -535,7 +543,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-operator",
-          "updated_at": "2026-02-02T16:20:49Z"
+          "updated_at": "2026-02-10T20:06:31Z"
         },
         {
           "name": "blackroad-os-api",
@@ -543,7 +551,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-api",
-          "updated_at": "2026-02-03T16:56:06Z"
+          "updated_at": "2026-02-10T20:06:29Z"
         },
         {
           "name": "blackroad-os-web",
@@ -583,7 +591,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-ideas",
-          "updated_at": "2026-02-02T16:21:10Z"
+          "updated_at": "2026-02-10T20:06:32Z"
         },
         {
           "name": "blackroad-os-research",
@@ -591,7 +599,7 @@
           "visibility": "private",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-research",
-          "updated_at": "2026-02-02T16:10:57Z"
+          "updated_at": "2026-02-10T20:06:35Z"
         },
         {
           "name": "blackroad-os-brand",
@@ -607,7 +615,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-infra",
-          "updated_at": "2026-02-09T22:45:24Z"
+          "updated_at": "2026-02-10T20:06:36Z"
         },
         {
           "name": "blackroad-os-archive",
