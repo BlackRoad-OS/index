@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T00:20:53Z",
+  "generated_at": "2026-02-19T00:20:34Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
@@ -515,11 +515,11 @@
       "repos": [
         {
           "name": "blackroad-prism-console",
-          "description": null,
+          "description": "Prism Console - unified management interface for BlackRoad infrastructure",
           "visibility": "private",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-prism-console",
-          "updated_at": "2026-01-26T21:19:00Z"
+          "updated_at": "2026-02-18T06:30:49Z"
         },
         {
           "name": "blackroad-os-core",
@@ -547,11 +547,11 @@
         },
         {
           "name": "blackroad-os-api",
-          "description": "Create a minimal Operator service skeleton:  - app/: FastAPI or plain Python entrypoint with a /health endpoint - workers/: placeholder module for background jobs and agent orchestration - infra/: Dockerfile, requirements.txt, and a sample railway.toml with no secrets Use simple placeholder code only. Do not add complex business logic.",
+          "description": "BlackRoad API Gateway - Authentication, rate limiting, multi-tenant routing",
           "visibility": "private",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-api",
-          "updated_at": "2026-02-15T02:26:20Z"
+          "updated_at": "2026-02-18T07:37:43Z"
         },
         {
           "name": "blackroad-os-web",
@@ -559,7 +559,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-web",
-          "updated_at": "2026-02-16T22:15:26Z"
+          "updated_at": "2026-02-18T05:05:44Z"
         },
         {
           "name": "blackroad-os-docs",
@@ -567,7 +567,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-docs",
-          "updated_at": "2026-02-15T04:59:15Z"
+          "updated_at": "2026-02-18T06:14:28Z"
         },
         {
           "name": "blackroad-os-demo",
@@ -603,19 +603,19 @@
         },
         {
           "name": "blackroad-os-brand",
-          "description": "Brand system for BlackRoad OS: colors, typography, logo rules, presentation/email templates, and links to design assets.",
+          "description": "Official BlackRoad brand assets - Golden Ratio design system, colors, typography",
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-brand",
-          "updated_at": "2026-02-16T03:06:19Z"
+          "updated_at": "2026-02-18T07:37:43Z"
         },
         {
           "name": "blackroad-os-infra",
-          "description": "Infrastructure-as-code and runbooks for BlackRoad OS: DNS, Cloudflare, Railway environments, and deployment patterns.",
+          "description": "Infrastructure as Code for BlackRoad OS - Kubernetes, Terraform, Ansible, Helm charts",
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-infra",
-          "updated_at": "2026-02-16T03:06:17Z"
+          "updated_at": "2026-02-18T07:37:42Z"
         },
         {
           "name": "blackroad-os-archive",
@@ -643,11 +643,11 @@
         },
         {
           "name": "blackroad-os-agents",
-          "description": "🖤 AI agent orchestration & deployment system",
+          "description": "AI Agent Registry - 30,000 agent orchestration system with PS-SHA-infinity consensus",
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-agents",
-          "updated_at": "2026-02-02T16:11:40Z"
+          "updated_at": "2026-02-18T07:42:04Z"
         },
         {
           "name": "blackroad-os-api-gateway",
@@ -1003,11 +1003,11 @@
         },
         {
           "name": "blackroad-os-dashboard",
-          "description": "🖤 BlackRoad OS - dashboard component",
+          "description": "BlackRoad Dashboard - Real-time infrastructure monitoring and control panel",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-dashboard",
-          "updated_at": "2026-02-15T02:26:21Z"
+          "updated_at": "2026-02-18T07:42:04Z"
         },
         {
           "name": "blackroad-os-deploy",
@@ -1179,11 +1179,11 @@
         },
         {
           "name": "blackroad-io",
-          "description": "🖤 BlackRoad io - Enterprise io system",
+          "description": "Official BlackRoad website - blackroad.io main landing page and documentation",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-io",
-          "updated_at": "2026-02-16T03:06:20Z"
+          "updated_at": "2026-02-18T07:42:02Z"
         },
         {
           "name": "blackroad-company",
