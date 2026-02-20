@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T00:20:34Z",
+  "generated_at": "2026-02-20T00:21:36Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
@@ -76,6 +76,102 @@
           "language": null,
           "url": "https://github.com/Blackbox-Enterprises/.github",
           "updated_at": "2026-02-15T05:21:51Z"
+        },
+        {
+          "name": "blackbox-budibase",
+          "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-budibase",
+          "updated_at": "2026-02-19T23:45:00Z"
+        },
+        {
+          "name": "blackbox-appsmith",
+          "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-appsmith",
+          "updated_at": "2026-02-19T23:45:02Z"
+        },
+        {
+          "name": "blackbox-baserow",
+          "description": "Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-baserow",
+          "updated_at": "2026-02-19T23:45:04Z"
+        },
+        {
+          "name": "blackbox-tooljet",
+          "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-tooljet",
+          "updated_at": "2026-02-19T23:45:06Z"
+        },
+        {
+          "name": "blackbox-windmill",
+          "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-windmill",
+          "updated_at": "2026-02-19T23:45:07Z"
+        },
+        {
+          "name": "blackbox-automatisch",
+          "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-automatisch",
+          "updated_at": "2026-02-19T23:45:09Z"
+        },
+        {
+          "name": "blackbox-frappe",
+          "description": "Low code web framework for real world applications, in Python and Javascript",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-frappe",
+          "updated_at": "2026-02-19T23:45:11Z"
+        },
+        {
+          "name": "blackbox-formbricks",
+          "description": "Open Source Qualtrics Alternative",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-formbricks",
+          "updated_at": "2026-02-19T23:45:13Z"
+        },
+        {
+          "name": "blackbox-typebot.io",
+          "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-typebot.io",
+          "updated_at": "2026-02-19T23:45:15Z"
+        },
+        {
+          "name": "blackbox-hoppscotch",
+          "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-hoppscotch",
+          "updated_at": "2026-02-19T23:45:17Z"
+        },
+        {
+          "name": "blackbox-nocodb",
+          "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-nocodb",
+          "updated_at": "2026-02-19T23:45:19Z"
+        },
+        {
+          "name": "blackbox-directus",
+          "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/Blackbox-Enterprises/blackbox-directus",
+          "updated_at": "2026-02-19T23:45:20Z"
         }
       ]
     },
@@ -1422,6 +1518,62 @@
           "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/blackroad-gradio",
           "updated_at": "2026-02-13T17:17:54Z"
+        },
+        {
+          "name": "blackroad-dvc",
+          "description": "🦉 Data Versioning and ML Experiments",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-dvc",
+          "updated_at": "2026-02-19T23:43:46Z"
+        },
+        {
+          "name": "blackroad-label-studio",
+          "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-label-studio",
+          "updated_at": "2026-02-19T23:43:49Z"
+        },
+        {
+          "name": "blackroad-optuna",
+          "description": "A hyperparameter optimization framework",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-optuna",
+          "updated_at": "2026-02-19T23:43:51Z"
+        },
+        {
+          "name": "blackroad-great_expectations",
+          "description": "Always know what to expect from your data.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-great_expectations",
+          "updated_at": "2026-02-19T23:43:53Z"
+        },
+        {
+          "name": "blackroad-kedro",
+          "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-kedro",
+          "updated_at": "2026-02-19T23:43:55Z"
+        },
+        {
+          "name": "blackroad-feast",
+          "description": "The Open Source Feature Store for AI/ML",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-feast",
+          "updated_at": "2026-02-19T23:47:13Z"
+        },
+        {
+          "name": "blackroad-evidently",
+          "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Labs/blackroad-evidently",
+          "updated_at": "2026-02-19T23:47:17Z"
         }
       ]
     },
@@ -1588,6 +1740,86 @@
           "language": "Go",
           "url": "https://github.com/BlackRoad-Cloud/blackroad-pulumi",
           "updated_at": "2026-02-13T17:17:11Z"
+        },
+        {
+          "name": "blackroad-helm",
+          "description": "The Kubernetes Package Manager",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-helm",
+          "updated_at": "2026-02-19T23:42:04Z"
+        },
+        {
+          "name": "blackroad-longhorn",
+          "description": "Cloud-Native distributed storage built on and for Kubernetes",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-longhorn",
+          "updated_at": "2026-02-19T23:42:06Z"
+        },
+        {
+          "name": "blackroad-portainer",
+          "description": "Making Docker and Kubernetes management easy.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-portainer",
+          "updated_at": "2026-02-19T23:42:08Z"
+        },
+        {
+          "name": "blackroad-crossplane",
+          "description": "The Cloud Native Control Plane",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-crossplane",
+          "updated_at": "2026-02-19T23:42:10Z"
+        },
+        {
+          "name": "blackroad-kubevela",
+          "description": "The Modern Application Platform.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-kubevela",
+          "updated_at": "2026-02-19T23:42:12Z"
+        },
+        {
+          "name": "blackroad-kyverno",
+          "description": "Cloud Native Policy Management",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-kyverno",
+          "updated_at": "2026-02-19T23:42:14Z"
+        },
+        {
+          "name": "blackroad-linkerd2",
+          "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-linkerd2",
+          "updated_at": "2026-02-19T23:42:15Z"
+        },
+        {
+          "name": "blackroad-cert-manager",
+          "description": "Automatically provision and manage TLS certificates in Kubernetes",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-cert-manager",
+          "updated_at": "2026-02-19T23:42:17Z"
+        },
+        {
+          "name": "blackroad-vcluster",
+          "description": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-vcluster",
+          "updated_at": "2026-02-19T23:42:19Z"
+        },
+        {
+          "name": "blackroad-cilium",
+          "description": "eBPF-based Networking, Security, and Observability",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Cloud/blackroad-cilium",
+          "updated_at": "2026-02-19T23:42:21Z"
         }
       ]
     },
@@ -1690,6 +1922,46 @@
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Ventures/blackroad-prestashop",
           "updated_at": "2026-02-13T17:27:52Z"
+        },
+        {
+          "name": "blackroad-lago",
+          "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Ventures/blackroad-lago",
+          "updated_at": "2026-02-19T23:43:47Z"
+        },
+        {
+          "name": "blackroad-gnucash",
+          "description": "GnuCash Double-Entry Accounting Program.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Ventures/blackroad-gnucash",
+          "updated_at": "2026-02-19T23:43:49Z"
+        },
+        {
+          "name": "blackroad-actual",
+          "description": "A local-first personal finance app",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Ventures/blackroad-actual",
+          "updated_at": "2026-02-19T23:43:51Z"
+        },
+        {
+          "name": "blackroad-saleor",
+          "description": "Saleor Core: the high performance, composable, headless commerce API.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Ventures/blackroad-saleor",
+          "updated_at": "2026-02-19T23:43:53Z"
+        },
+        {
+          "name": "blackroad-medusa",
+          "description": "The world's most flexible commerce platform.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Ventures/blackroad-medusa",
+          "updated_at": "2026-02-19T23:43:55Z"
         }
       ]
     },
@@ -1816,6 +2088,126 @@
           "language": "Python",
           "url": "https://github.com/BlackRoad-Foundation/blackroad-taiga",
           "updated_at": "2026-02-13T17:17:26Z"
+        },
+        {
+          "name": "blackroad-erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-erpnext",
+          "updated_at": "2026-02-19T23:42:56Z"
+        },
+        {
+          "name": "blackroad-odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-odoo",
+          "updated_at": "2026-02-19T23:42:58Z"
+        },
+        {
+          "name": "blackroad-twenty",
+          "description": "Building a modern alternative to Salesforce, powered by the community.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-twenty",
+          "updated_at": "2026-02-19T23:43:00Z"
+        },
+        {
+          "name": "blackroad-cal.com",
+          "description": "Scheduling infrastructure for absolutely everyone.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-cal.com",
+          "updated_at": "2026-02-19T23:43:02Z"
+        },
+        {
+          "name": "blackroad-plane",
+          "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-plane",
+          "updated_at": "2026-02-19T23:43:04Z"
+        },
+        {
+          "name": "blackroad-vikunja",
+          "description": "The to-do app to organize your life.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-vikunja",
+          "updated_at": "2026-02-19T23:43:06Z"
+        },
+        {
+          "name": "blackroad-leantime",
+          "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-leantime",
+          "updated_at": "2026-02-19T23:43:08Z"
+        },
+        {
+          "name": "blackroad-kimai",
+          "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-kimai",
+          "updated_at": "2026-02-19T23:43:10Z"
+        },
+        {
+          "name": "blackroad-openproject",
+          "description": "OpenProject is the leading open source project management software.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-openproject",
+          "updated_at": "2026-02-19T23:43:11Z"
+        },
+        {
+          "name": "blackroad-monica",
+          "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-monica",
+          "updated_at": "2026-02-19T23:43:13Z"
+        },
+        {
+          "name": "blackroad-chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-chatwoot",
+          "updated_at": "2026-02-19T23:43:15Z"
+        },
+        {
+          "name": "blackroad-zammad",
+          "description": "Zammad is a web based open source helpdesk/customer support system.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-zammad",
+          "updated_at": "2026-02-19T23:43:17Z"
+        },
+        {
+          "name": "blackroad-platform",
+          "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-platform",
+          "updated_at": "2026-02-19T23:43:19Z"
+        },
+        {
+          "name": "blackroad-appflowy",
+          "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-appflowy",
+          "updated_at": "2026-02-19T23:43:21Z"
+        },
+        {
+          "name": "blackroad-formbricks",
+          "description": "Open Source Qualtrics Alternative",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Foundation/blackroad-formbricks",
+          "updated_at": "2026-02-19T23:43:23Z"
         }
       ]
     },
@@ -1958,6 +2350,102 @@
           "language": "HTML",
           "url": "https://github.com/BlackRoad-Media/backroad-social",
           "updated_at": "2026-02-14T23:07:57Z"
+        },
+        {
+          "name": "blackroad-ghost",
+          "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-ghost",
+          "updated_at": "2026-02-19T23:42:05Z"
+        },
+        {
+          "name": "blackroad-strapi",
+          "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-strapi",
+          "updated_at": "2026-02-19T23:42:07Z"
+        },
+        {
+          "name": "blackroad-directus",
+          "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-directus",
+          "updated_at": "2026-02-19T23:42:09Z"
+        },
+        {
+          "name": "blackroad-audiobookshelf",
+          "description": "Self-hosted audiobook and podcast server",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-audiobookshelf",
+          "updated_at": "2026-02-19T23:42:11Z"
+        },
+        {
+          "name": "blackroad-navidrome",
+          "description": "🎧☁️ Your Personal Streaming Service",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-navidrome",
+          "updated_at": "2026-02-19T23:42:13Z"
+        },
+        {
+          "name": "blackroad-handbrake",
+          "description": "HandBrake's development repository ",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-handbrake",
+          "updated_at": "2026-02-19T23:42:16Z"
+        },
+        {
+          "name": "blackroad-obs-studio",
+          "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-obs-studio",
+          "updated_at": "2026-02-19T23:42:18Z"
+        },
+        {
+          "name": "blackroad-shotcut",
+          "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-shotcut",
+          "updated_at": "2026-02-19T23:42:20Z"
+        },
+        {
+          "name": "blackroad-syncthing",
+          "description": "Open Source Continuous File Synchronization",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-syncthing",
+          "updated_at": "2026-02-19T23:42:22Z"
+        },
+        {
+          "name": "blackroad-calibre-web",
+          "description": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-calibre-web",
+          "updated_at": "2026-02-19T23:42:24Z"
+        },
+        {
+          "name": "blackroad-lychee",
+          "description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-lychee",
+          "updated_at": "2026-02-19T23:42:26Z"
+        },
+        {
+          "name": "blackroad-castopod",
+          "description": "Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod ",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Media/blackroad-castopod",
+          "updated_at": "2026-02-19T23:42:28Z"
         }
       ]
     },
@@ -2068,6 +2556,142 @@
           "language": "Go",
           "url": "https://github.com/BlackRoad-Hardware/blackroad-kerberos",
           "updated_at": "2026-02-13T17:17:38Z"
+        },
+        {
+          "name": "blackroad-zigbee2mqtt",
+          "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-zigbee2mqtt",
+          "updated_at": "2026-02-19T23:42:58Z"
+        },
+        {
+          "name": "blackroad-frigate",
+          "description": "NVR with realtime local object detection for IP cameras",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-frigate",
+          "updated_at": "2026-02-19T23:42:59Z"
+        },
+        {
+          "name": "blackroad-wled",
+          "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-wled",
+          "updated_at": "2026-02-19T23:43:01Z"
+        },
+        {
+          "name": "blackroad-firmware",
+          "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-firmware",
+          "updated_at": "2026-02-19T23:43:03Z"
+        },
+        {
+          "name": "blackroad-micropython",
+          "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-micropython",
+          "updated_at": "2026-02-19T23:43:05Z"
+        },
+        {
+          "name": "blackroad-arduino",
+          "description": "Arduino IDE 1.x",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-arduino",
+          "updated_at": "2026-02-19T23:43:07Z"
+        },
+        {
+          "name": "blackroad-marlin",
+          "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-marlin",
+          "updated_at": "2026-02-19T23:43:09Z"
+        },
+        {
+          "name": "blackroad-klipper",
+          "description": "Klipper is a 3d-printer firmware",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-klipper",
+          "updated_at": "2026-02-19T23:43:11Z"
+        },
+        {
+          "name": "blackroad-octoprint",
+          "description": "OctoPrint is the snappy web interface for your 3D printer!",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-octoprint",
+          "updated_at": "2026-02-19T23:43:13Z"
+        },
+        {
+          "name": "blackroad-homebridge",
+          "description": "HomeKit support for the impatient.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-homebridge",
+          "updated_at": "2026-02-19T23:43:15Z"
+        },
+        {
+          "name": "blackroad-thingsboard",
+          "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-thingsboard",
+          "updated_at": "2026-02-19T23:43:17Z"
+        },
+        {
+          "name": "blackroad-gladys",
+          "description": "A privacy-first, open-source home assistant",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-gladys",
+          "updated_at": "2026-02-19T23:43:19Z"
+        },
+        {
+          "name": "blackroad-domoticz",
+          "description": "Open source Home Automation System",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-domoticz",
+          "updated_at": "2026-02-19T23:43:21Z"
+        },
+        {
+          "name": "blackroad-circuitpython",
+          "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-circuitpython",
+          "updated_at": "2026-02-19T23:43:23Z"
+        },
+        {
+          "name": "blackroad-grbl",
+          "description": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-grbl",
+          "updated_at": "2026-02-19T23:43:25Z"
+        },
+        {
+          "name": "blackroad-scrypted",
+          "description": "Scrypted is a high performance video integration and automation platform",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-scrypted",
+          "updated_at": "2026-02-19T23:43:26Z"
+        },
+        {
+          "name": "blackroad-mycroft-core",
+          "description": "Mycroft Core, the Mycroft Artificial Intelligence platform. ",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Hardware/blackroad-mycroft-core",
+          "updated_at": "2026-02-19T23:43:28Z"
         }
       ]
     },
@@ -2162,6 +2786,110 @@
           "language": "HTML",
           "url": "https://github.com/BlackRoad-Education/roadwork-platform",
           "updated_at": "2026-02-14T23:07:28Z"
+        },
+        {
+          "name": "blackroad-canvas-lms",
+          "description": "The open LMS by Instructure, Inc.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-canvas-lms",
+          "updated_at": "2026-02-19T23:44:58Z"
+        },
+        {
+          "name": "blackroad-sakai",
+          "description": "Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. Sakai is an open source software suite developed by a diverse and global adopter community.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-sakai",
+          "updated_at": "2026-02-19T23:45:00Z"
+        },
+        {
+          "name": "blackroad-mermaid",
+          "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-mermaid",
+          "updated_at": "2026-02-19T23:45:02Z"
+        },
+        {
+          "name": "blackroad-excalidraw",
+          "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-excalidraw",
+          "updated_at": "2026-02-19T23:45:04Z"
+        },
+        {
+          "name": "blackroad-katex",
+          "description": "Fast math typesetting for the web.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-katex",
+          "updated_at": "2026-02-19T23:45:06Z"
+        },
+        {
+          "name": "blackroad-reveal.js",
+          "description": "The HTML Presentation Framework",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-reveal.js",
+          "updated_at": "2026-02-19T23:45:08Z"
+        },
+        {
+          "name": "blackroad-quarto-cli",
+          "description": "Open-source scientific and technical publishing system built on Pandoc.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-quarto-cli",
+          "updated_at": "2026-02-19T23:45:10Z"
+        },
+        {
+          "name": "blackroad-jupyter-book",
+          "description": "Create beautiful, publication-quality books and documents from computational content.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-jupyter-book",
+          "updated_at": "2026-02-19T23:45:12Z"
+        },
+        {
+          "name": "blackroad-zola",
+          "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-zola",
+          "updated_at": "2026-02-19T23:45:14Z"
+        },
+        {
+          "name": "blackroad-mdbook",
+          "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-mdbook",
+          "updated_at": "2026-02-19T23:45:15Z"
+        },
+        {
+          "name": "blackroad-logseq",
+          "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-logseq",
+          "updated_at": "2026-02-19T23:45:17Z"
+        },
+        {
+          "name": "blackroad-drawio",
+          "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-drawio",
+          "updated_at": "2026-02-19T23:45:19Z"
+        },
+        {
+          "name": "blackroad-freecodecamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Education/blackroad-freecodecamp",
+          "updated_at": "2026-02-19T23:45:21Z"
         }
       ]
     },
@@ -2248,6 +2976,110 @@
           "language": "HTML",
           "url": "https://github.com/BlackRoad-Gov/roadcoin-token",
           "updated_at": "2026-02-14T23:07:37Z"
+        },
+        {
+          "name": "blackroad-civicrm-core",
+          "description": "CiviCRM (Core Application and Framework)",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-civicrm-core",
+          "updated_at": "2026-02-19T23:44:59Z"
+        },
+        {
+          "name": "blackroad-loomio",
+          "description": "Loomio is a collaborative decision making tool",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-loomio",
+          "updated_at": "2026-02-19T23:45:00Z"
+        },
+        {
+          "name": "blackroad-polis",
+          "description": ":milky_way: Open Source AI for large scale open ended feedback",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-polis",
+          "updated_at": "2026-02-19T23:45:02Z"
+        },
+        {
+          "name": "blackroad-openfisca-core",
+          "description": "OpenFisca core engine. See other repositories for countries-specific code & data.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-openfisca-core",
+          "updated_at": "2026-02-19T23:45:04Z"
+        },
+        {
+          "name": "blackroad-ckan",
+          "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-ckan",
+          "updated_at": "2026-02-19T23:45:06Z"
+        },
+        {
+          "name": "blackroad-matomo",
+          "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-matomo",
+          "updated_at": "2026-02-19T23:45:08Z"
+        },
+        {
+          "name": "blackroad-platform",
+          "description": "Ushahidi Platform API version 3+",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-platform",
+          "updated_at": "2026-02-19T23:45:10Z"
+        },
+        {
+          "name": "blackroad-fixmystreet",
+          "description": "This is mySociety's popular map-based reporting platform: easy to install in new countries and regions",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-fixmystreet",
+          "updated_at": "2026-02-19T23:45:12Z"
+        },
+        {
+          "name": "blackroad-opencollective",
+          "description": "We're tracking all our Issues, RFCs and a few other documents in this repository.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-opencollective",
+          "updated_at": "2026-02-19T23:45:14Z"
+        },
+        {
+          "name": "blackroad-openrefine",
+          "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-openrefine",
+          "updated_at": "2026-02-19T23:45:16Z"
+        },
+        {
+          "name": "blackroad-aleph",
+          "description": "Search and browse documents and data; find the people and companies you look for.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-aleph",
+          "updated_at": "2026-02-19T23:45:17Z"
+        },
+        {
+          "name": "blackroad-securedrop",
+          "description": "GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-securedrop",
+          "updated_at": "2026-02-19T23:45:19Z"
+        },
+        {
+          "name": "blackroad-globaleaks",
+          "description": "GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Gov/blackroad-globaleaks",
+          "updated_at": "2026-02-19T23:45:21Z"
         }
       ]
     },
@@ -2390,6 +3222,110 @@
           "language": "Go",
           "url": "https://github.com/BlackRoad-Security/blackroad-cilium",
           "updated_at": "2026-02-13T17:19:57Z"
+        },
+        {
+          "name": "blackroad-nuclei",
+          "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-nuclei",
+          "updated_at": "2026-02-19T23:42:04Z"
+        },
+        {
+          "name": "blackroad-nmap",
+          "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-nmap",
+          "updated_at": "2026-02-19T23:42:06Z"
+        },
+        {
+          "name": "blackroad-osquery",
+          "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-osquery",
+          "updated_at": "2026-02-19T23:42:08Z"
+        },
+        {
+          "name": "blackroad-thehive",
+          "description": "TheHive is a Collaborative Case Management Platform, now distributed as a commercial version",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-thehive",
+          "updated_at": "2026-02-19T23:42:10Z"
+        },
+        {
+          "name": "blackroad-misp",
+          "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-misp",
+          "updated_at": "2026-02-19T23:42:12Z"
+        },
+        {
+          "name": "blackroad-django-defectdojo",
+          "description": "Open-Source Unified Vulnerability Management, DevSecOps & ASPM",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-django-defectdojo",
+          "updated_at": "2026-02-19T23:42:14Z"
+        },
+        {
+          "name": "blackroad-authentik",
+          "description": "The authentication glue you need.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-authentik",
+          "updated_at": "2026-02-19T23:42:16Z"
+        },
+        {
+          "name": "blackroad-keycloak",
+          "description": "Open Source Identity and Access Management For Modern Applications and Services",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-keycloak",
+          "updated_at": "2026-02-19T23:42:18Z"
+        },
+        {
+          "name": "blackroad-kube-bench",
+          "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-kube-bench",
+          "updated_at": "2026-02-19T23:42:20Z"
+        },
+        {
+          "name": "blackroad-threatmapper",
+          "description": "Open Source Cloud Native Application Protection Platform (CNAPP)",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-threatmapper",
+          "updated_at": "2026-02-19T23:42:22Z"
+        },
+        {
+          "name": "blackroad-velociraptor",
+          "description": "Digging Deeper....",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-velociraptor",
+          "updated_at": "2026-02-19T23:42:24Z"
+        },
+        {
+          "name": "blackroad-semgrep",
+          "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-semgrep",
+          "updated_at": "2026-02-19T23:42:26Z"
+        },
+        {
+          "name": "blackroad-terrascan",
+          "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Security/blackroad-terrascan",
+          "updated_at": "2026-02-19T23:42:28Z"
         }
       ]
     },
@@ -2508,6 +3444,126 @@
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-Interactive/blackroad-babylonjs",
           "updated_at": "2026-02-13T17:17:47Z"
+        },
+        {
+          "name": "blackroad-phaser",
+          "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-phaser",
+          "updated_at": "2026-02-19T23:42:57Z"
+        },
+        {
+          "name": "blackroad-pixijs",
+          "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-pixijs",
+          "updated_at": "2026-02-19T23:42:59Z"
+        },
+        {
+          "name": "blackroad-raylib",
+          "description": "A simple and easy-to-use library to enjoy videogames programming",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-raylib",
+          "updated_at": "2026-02-19T23:43:01Z"
+        },
+        {
+          "name": "blackroad-monogame",
+          "description": "One framework for creating powerful cross-platform games.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-monogame",
+          "updated_at": "2026-02-19T23:43:03Z"
+        },
+        {
+          "name": "blackroad-defold",
+          "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-defold",
+          "updated_at": "2026-02-19T23:43:05Z"
+        },
+        {
+          "name": "blackroad-stride",
+          "description": "Stride (formerly Xenko), a free and open-source cross-platform C# game engine.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-stride",
+          "updated_at": "2026-02-19T23:43:07Z"
+        },
+        {
+          "name": "blackroad-fyrox",
+          "description": "3D and 2D game engine written in Rust",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-fyrox",
+          "updated_at": "2026-02-19T23:43:09Z"
+        },
+        {
+          "name": "blackroad-openra",
+          "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-openra",
+          "updated_at": "2026-02-19T23:43:11Z"
+        },
+        {
+          "name": "blackroad-libgdx",
+          "description": "Desktop/Android/HTML5/iOS Java game development framework",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-libgdx",
+          "updated_at": "2026-02-19T23:43:13Z"
+        },
+        {
+          "name": "blackroad-panda3d",
+          "description": "Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-panda3d",
+          "updated_at": "2026-02-19T23:43:15Z"
+        },
+        {
+          "name": "blackroad-renpy",
+          "description": "The Ren'Py Visual Novel Engine",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-renpy",
+          "updated_at": "2026-02-19T23:43:17Z"
+        },
+        {
+          "name": "blackroad-tiled",
+          "description": "Flexible level editor",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-tiled",
+          "updated_at": "2026-02-19T23:43:18Z"
+        },
+        {
+          "name": "blackroad-aframe",
+          "description": ":a: Web framework for building virtual reality experiences.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-aframe",
+          "updated_at": "2026-02-19T23:43:20Z"
+        },
+        {
+          "name": "blackroad-kaboom",
+          "description": "💥 JavaScript game library",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-kaboom",
+          "updated_at": "2026-02-19T23:43:22Z"
+        },
+        {
+          "name": "blackroad-flame",
+          "description": "A Flutter based game engine.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Interactive/blackroad-flame",
+          "updated_at": "2026-02-19T23:43:24Z"
         }
       ]
     },
@@ -2586,6 +3642,102 @@
           "language": "Python",
           "url": "https://github.com/BlackRoad-Archive/blackroad-archivy",
           "updated_at": "2026-02-13T17:16:58Z"
+        },
+        {
+          "name": "blackroad-archivebox",
+          "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-archivebox",
+          "updated_at": "2026-02-19T23:44:59Z"
+        },
+        {
+          "name": "blackroad-wallabag",
+          "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-wallabag",
+          "updated_at": "2026-02-19T23:45:01Z"
+        },
+        {
+          "name": "blackroad-linkding",
+          "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-linkding",
+          "updated_at": "2026-02-19T23:45:03Z"
+        },
+        {
+          "name": "blackroad-shiori",
+          "description": "Simple bookmark manager built with Go",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-shiori",
+          "updated_at": "2026-02-19T23:45:05Z"
+        },
+        {
+          "name": "blackroad-bookstack",
+          "description": "A platform to create documentation/wiki content built with PHP & Laravel",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-bookstack",
+          "updated_at": "2026-02-19T23:45:07Z"
+        },
+        {
+          "name": "blackroad-wiki",
+          "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-wiki",
+          "updated_at": "2026-02-19T23:45:09Z"
+        },
+        {
+          "name": "blackroad-outline",
+          "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-outline",
+          "updated_at": "2026-02-19T23:45:11Z"
+        },
+        {
+          "name": "blackroad-docmost",
+          "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-docmost",
+          "updated_at": "2026-02-19T23:45:12Z"
+        },
+        {
+          "name": "blackroad-joplin",
+          "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-joplin",
+          "updated_at": "2026-02-19T23:45:14Z"
+        },
+        {
+          "name": "blackroad-trilium",
+          "description": "Build your personal knowledge base with Trilium Notes",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-trilium",
+          "updated_at": "2026-02-19T23:45:17Z"
+        },
+        {
+          "name": "blackroad-siyuan",
+          "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-siyuan",
+          "updated_at": "2026-02-19T23:45:18Z"
+        },
+        {
+          "name": "blackroad-hoarder",
+          "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Archive/blackroad-hoarder",
+          "updated_at": "2026-02-19T23:45:20Z"
         }
       ]
     },
@@ -2696,6 +3848,54 @@
           "language": "HTML",
           "url": "https://github.com/BlackRoad-Studio/writing-studio",
           "updated_at": "2026-02-14T23:11:31Z"
+        },
+        {
+          "name": "blackroad-darktable",
+          "description": "darktable is an open source photography workflow application and raw developer",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Studio/blackroad-darktable",
+          "updated_at": "2026-02-19T23:43:47Z"
+        },
+        {
+          "name": "blackroad-rawtherapee",
+          "description": "A powerful cross-platform raw photo processing program",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Studio/blackroad-rawtherapee",
+          "updated_at": "2026-02-19T23:43:49Z"
+        },
+        {
+          "name": "blackroad-synfig",
+          "description": "This is the Official source code repository of Synfig Studio animation software",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Studio/blackroad-synfig",
+          "updated_at": "2026-02-19T23:43:51Z"
+        },
+        {
+          "name": "blackroad-natron",
+          "description": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Studio/blackroad-natron",
+          "updated_at": "2026-02-19T23:43:53Z"
+        },
+        {
+          "name": "blackroad-olive",
+          "description": "Free open-source non-linear video editor",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Studio/blackroad-olive",
+          "updated_at": "2026-02-19T23:43:55Z"
+        },
+        {
+          "name": "blackroad-audacity",
+          "description": "Audio Editor                                     ",
+          "visibility": "public",
+          "language": null,
+          "url": "https://github.com/BlackRoad-Studio/blackroad-audacity",
+          "updated_at": "2026-02-19T23:43:57Z"
         }
       ]
     }
