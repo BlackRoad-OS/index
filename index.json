@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T00:21:36Z",
+  "generated_at": "2026-02-21T00:19:16Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
@@ -75,7 +75,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/Blackbox-Enterprises/.github",
-          "updated_at": "2026-02-15T05:21:51Z"
+          "updated_at": "2026-02-20T00:29:57Z"
         },
         {
           "name": "blackbox-budibase",
@@ -593,7 +593,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-AI/.github",
-          "updated_at": "2026-02-15T05:10:50Z"
+          "updated_at": "2026-02-20T00:29:54Z"
         },
         {
           "name": "blackroad-vllm-mvp",
@@ -623,7 +623,7 @@
           "visibility": "private",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-core",
-          "updated_at": "2026-02-15T03:33:14Z"
+          "updated_at": "2026-02-20T23:44:32Z"
         },
         {
           "name": "blackroad-os-prism-console",
@@ -651,19 +651,19 @@
         },
         {
           "name": "blackroad-os-web",
-          "description": "Create a minimal API service:  - app/: FastAPI with a simple /health and /version endpoint - schemas/: placeholder pydantic models - infra/: Dockerfile, requirements.txt, sample railway.toml (no secrets) Keep it extremely small and clean, just enough structure to grow.",
+          "description": "BlackRoad OS web API — FastAPI backend powering agent orchestration, compliance endpoints, and Prism Console.",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-web",
-          "updated_at": "2026-02-18T05:05:44Z"
+          "updated_at": "2026-02-20T00:42:11Z"
         },
         {
           "name": "blackroad-os-docs",
-          "description": "Documentation hub for BlackRoad OS, Lucidia, Quantum Lab, and agents.",
+          "description": "Documentation for BlackRoad OS, Lucidia, ALICE QI, Prism Console, RoadChain, and PS-SHA-infinity.",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-docs",
-          "updated_at": "2026-02-18T06:14:28Z"
+          "updated_at": "2026-02-20T00:42:12Z"
         },
         {
           "name": "blackroad-os-demo",
@@ -707,11 +707,11 @@
         },
         {
           "name": "blackroad-os-infra",
-          "description": "Infrastructure as Code for BlackRoad OS - Kubernetes, Terraform, Ansible, Helm charts",
+          "description": "Infrastructure as Code — Kubernetes, Terraform, Ansible, Helm charts for BlackRoad OS distributed deployment.",
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-infra",
-          "updated_at": "2026-02-18T07:37:42Z"
+          "updated_at": "2026-02-20T00:42:12Z"
         },
         {
           "name": "blackroad-os-archive",
@@ -723,11 +723,11 @@
         },
         {
           "name": "blackroad",
-          "description": "🖤 Core BlackRoad OS monorepo",
+          "description": "Core BlackRoad OS monorepo — The operating system for governed AI. PS-SHA-infinity identity, Lucidia orchestration, RoadChain audit ledger.",
           "visibility": "private",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad",
-          "updated_at": "2026-02-16T03:06:52Z"
+          "updated_at": "2026-02-20T20:53:23Z"
         },
         {
           "name": "blackroad-os",
@@ -859,11 +859,11 @@
         },
         {
           "name": "lucidia-core",
-          "description": "Lucidia: AI reasoning engines - physicist, mathematician, chemist, and more",
+          "description": "Lucidia reasoning engines — 10 domain expert agents (physicist, mathematician, chemist, geologist, analyst, architect, engineer, painter, poet, speaker).",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/lucidia-core",
-          "updated_at": "2026-02-05T23:29:23Z"
+          "updated_at": "2026-02-20T00:42:13Z"
         },
         {
           "name": "blackroad-agents",
@@ -971,19 +971,19 @@
         },
         {
           "name": "lucidia-earth-website",
-          "description": "Lucidia.earth website - The soul site. Meet Lucidia, the AI companion built on transparency, consent, and care.",
+          "description": "Lucidia.earth — The soul site. Human-AI orchestration language for coordinating thousands of agents in plain language.",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/lucidia-earth-website",
-          "updated_at": "2026-02-03T16:20:49Z"
+          "updated_at": "2026-02-20T00:42:13Z"
         },
         {
           "name": "blackroad-docs",
-          "description": "BlackRoad OS Documentation - Everything you need to build with transparent, accountable AI",
+          "description": "BlackRoad OS Documentation — Build with transparent, accountable AI. Guides for PS-SHA-infinity, Lucidia, RoadChain, and Prism Console.",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-docs",
-          "updated_at": "2026-02-03T16:12:26Z"
+          "updated_at": "2026-02-20T00:42:14Z"
         },
         {
           "name": "blackroad-deployment-docs",
@@ -991,7 +991,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-deployment-docs",
-          "updated_at": "2026-02-03T16:58:07Z"
+          "updated_at": "2026-02-20T00:28:24Z"
         },
         {
           "name": "blackroadinc-us",
@@ -1007,15 +1007,15 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/app-blackroad-io",
-          "updated_at": "2026-02-03T17:01:55Z"
+          "updated_at": "2026-02-20T00:28:22Z"
         },
         {
           "name": "blackroad-domains",
-          "description": "Complete canonical documentation for all BlackRoad infrastructure: 19 domains, 58 Cloudflare projects, 15 GitHub orgs, network architecture, and deployment automation",
+          "description": "Canonical documentation for all BlackRoad infrastructure — domains, projects, orgs, and network map.",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-domains",
-          "updated_at": "2026-02-03T16:13:55Z"
+          "updated_at": "2026-02-20T00:34:21Z"
         },
         {
           "name": "lucidia-metaverse",
@@ -1031,7 +1031,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/demo-blackroad-io",
-          "updated_at": "2026-02-03T17:01:53Z"
+          "updated_at": "2026-02-20T00:28:22Z"
         },
         {
           "name": "blackroad-os-codex",
@@ -1135,7 +1135,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-pitstop",
-          "updated_at": "2026-02-03T16:57:14Z"
+          "updated_at": "2026-02-20T00:28:23Z"
         },
         {
           "name": "blackroad-os-priority-stack",
@@ -1155,11 +1155,11 @@
         },
         {
           "name": "blackroad-os-simple-launch",
-          "description": "Complete SaaS launch website for BlackRoad OS - Built revenue-ready in one session with Stripe integration",
+          "description": "BlackRoad OS launch website — Revenue-ready SaaS site with Stripe integration, product pages, and enterprise pricing.",
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-simple-launch",
-          "updated_at": "2026-02-03T16:16:01Z"
+          "updated_at": "2026-02-20T00:42:16Z"
         },
         {
           "name": "blackroad-os-disaster-recovery",
@@ -1227,11 +1227,11 @@
         },
         {
           "name": "blackroad-os-alexa-resume",
-          "description": "Professional resume portfolio - Technical + Commercial + Compliance expertise. 77,450+ words documenting .8M sales, 466K LOC production code, and SOX compliance automation.",
+          "description": "Professional resume portfolio — technical, commercial, and compliance expertise.",
           "visibility": "private",
           "language": null,
           "url": "https://github.com/BlackRoad-OS/blackroad-os-alexa-resume",
-          "updated_at": "2026-02-02T16:19:48Z"
+          "updated_at": "2026-02-20T00:34:21Z"
         },
         {
           "name": "blackroad-ecosystem-dashboard",
@@ -1421,7 +1421,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Labs/.github",
-          "updated_at": "2026-02-15T05:16:21Z"
+          "updated_at": "2026-02-20T00:31:25Z"
         },
         {
           "name": "experiments",
@@ -1587,7 +1587,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Cloud/.github",
-          "updated_at": "2026-02-15T05:11:24Z"
+          "updated_at": "2026-02-20T00:30:16Z"
         },
         {
           "name": "cloud-gateway",
@@ -1833,7 +1833,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Ventures/.github",
-          "updated_at": "2026-02-15T05:19:04Z"
+          "updated_at": "2026-02-20T00:32:02Z"
         },
         {
           "name": "portfolio",
@@ -1975,7 +1975,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Foundation/.github",
-          "updated_at": "2026-02-15T05:16:06Z"
+          "updated_at": "2026-02-20T00:31:12Z"
         },
         {
           "name": "governance",
@@ -2221,7 +2221,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Media/.github",
-          "updated_at": "2026-02-15T05:15:40Z"
+          "updated_at": "2026-02-20T00:30:23Z"
         },
         {
           "name": "brand-kit",
@@ -2459,7 +2459,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Hardware/.github",
-          "updated_at": "2026-02-15T05:19:00Z"
+          "updated_at": "2026-02-20T00:31:45Z"
         },
         {
           "name": "hardware-specs",
@@ -2705,7 +2705,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Education/.github",
-          "updated_at": "2026-02-15T05:18:59Z"
+          "updated_at": "2026-02-20T00:32:17Z"
         },
         {
           "name": "tutorials",
@@ -2903,7 +2903,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Gov/.github",
-          "updated_at": "2026-02-15T05:21:49Z"
+          "updated_at": "2026-02-20T00:32:20Z"
         },
         {
           "name": "compliance-framework",
@@ -3093,7 +3093,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Security/.github",
-          "updated_at": "2026-02-15T05:13:09Z"
+          "updated_at": "2026-02-20T00:30:20Z"
         },
         {
           "name": "security-audits",
@@ -3339,7 +3339,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Interactive/.github",
-          "updated_at": "2026-02-15T05:19:02Z"
+          "updated_at": "2026-02-20T00:31:23Z"
         },
         {
           "name": "interactive-core",
@@ -3577,7 +3577,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Archive/.github",
-          "updated_at": "2026-02-15T05:21:50Z"
+          "updated_at": "2026-02-20T00:32:23Z"
         },
         {
           "name": "archive-core",
@@ -3751,7 +3751,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Studio/.github",
-          "updated_at": "2026-02-15T05:19:02Z"
+          "updated_at": "2026-02-20T00:31:58Z"
         },
         {
           "name": "studio-core",
