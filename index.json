@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T00:19:33Z",
+  "generated_at": "2026-02-23T00:20:10Z",
   "orgs": [
     {
       "name": "Blackbox-Enterprises",
@@ -19,7 +19,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/Blackbox-Enterprises/blackbox-airbyte",
-          "updated_at": "2026-02-13T17:27:54Z"
+          "updated_at": "2026-02-22T23:26:12Z"
         },
         {
           "name": "blackbox-activepieces",
@@ -27,7 +27,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/Blackbox-Enterprises/blackbox-activepieces",
-          "updated_at": "2026-02-13T17:27:55Z"
+          "updated_at": "2026-02-22T23:26:05Z"
         },
         {
           "name": "blackbox-prefect",
@@ -67,7 +67,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/Blackbox-Enterprises/blackbox-temporal",
-          "updated_at": "2026-02-13T17:27:59Z"
+          "updated_at": "2026-02-22T23:26:05Z"
         },
         {
           "name": ".github",
@@ -75,7 +75,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/Blackbox-Enterprises/.github",
-          "updated_at": "2026-02-21T22:01:42Z"
+          "updated_at": "2026-02-22T23:08:51Z"
         },
         {
           "name": "blackbox-budibase",
@@ -209,15 +209,15 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-AI/blackroad-ai-qwen",
-          "updated_at": "2026-02-21T21:57:42Z"
+          "updated_at": "2026-02-22T23:31:45Z"
         },
         {
           "name": "blackroad-ai-deepseek",
           "description": "DeepSeek-V3 AI model deployment for BlackRoad infrastructure (MIT + Custom License)",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-AI/blackroad-ai-deepseek",
-          "updated_at": "2026-02-21T21:57:48Z"
+          "updated_at": "2026-02-22T23:07:25Z"
         },
         {
           "name": "blackroad-ai-ollama",
@@ -225,7 +225,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-AI/blackroad-ai-ollama",
-          "updated_at": "2026-02-21T21:57:43Z"
+          "updated_at": "2026-02-22T23:29:34Z"
         },
         {
           "name": "blackroad-ai-api-gateway",
@@ -233,23 +233,23 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-AI/blackroad-ai-api-gateway",
-          "updated_at": "2026-02-21T21:57:46Z"
+          "updated_at": "2026-02-22T23:29:45Z"
         },
         {
           "name": "blackroad-ai-cluster",
           "description": "Clustering and orchestration system for BlackRoad AI models across Pi network",
           "visibility": "public",
-          "language": null,
+          "language": "Shell",
           "url": "https://github.com/BlackRoad-AI/blackroad-ai-cluster",
-          "updated_at": "2026-02-21T21:57:46Z"
+          "updated_at": "2026-02-22T23:24:31Z"
         },
         {
           "name": "blackroad-ai-memory-bridge",
           "description": "[MEMORY] system integration for BlackRoad AI models - enables collaboration and context",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-AI/blackroad-ai-memory-bridge",
-          "updated_at": "2026-02-21T21:57:40Z"
+          "updated_at": "2026-02-22T23:30:32Z"
         },
         {
           "name": "blackroad-vllm",
@@ -257,7 +257,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-AI/blackroad-vllm",
-          "updated_at": "2026-02-13T17:16:26Z"
+          "updated_at": "2026-02-22T23:18:31Z"
         },
         {
           "name": "blackroad-weaviate",
@@ -593,7 +593,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-AI/.github",
-          "updated_at": "2026-02-21T21:57:38Z"
+          "updated_at": "2026-02-22T23:07:54Z"
         },
         {
           "name": "blackroad-vllm-mvp",
@@ -623,7 +623,7 @@
           "visibility": "private",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-core",
-          "updated_at": "2026-02-21T21:39:09Z"
+          "updated_at": "2026-02-22T23:05:54Z"
         },
         {
           "name": "blackroad-os-prism-console",
@@ -655,7 +655,7 @@
           "visibility": "public",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os-web",
-          "updated_at": "2026-02-21T21:39:05Z"
+          "updated_at": "2026-02-23T00:12:32Z"
         },
         {
           "name": "blackroad-os-docs",
@@ -727,7 +727,7 @@
           "visibility": "private",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad",
-          "updated_at": "2026-02-21T21:39:08Z"
+          "updated_at": "2026-02-23T00:14:48Z"
         },
         {
           "name": "blackroad-os",
@@ -735,7 +735,7 @@
           "visibility": "private",
           "language": "HTML",
           "url": "https://github.com/BlackRoad-OS/blackroad-os",
-          "updated_at": "2026-02-21T21:49:46Z"
+          "updated_at": "2026-02-22T23:34:17Z"
         },
         {
           "name": "blackroad-os-agents",
@@ -871,7 +871,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-OS/blackroad-agents",
-          "updated_at": "2026-02-21T21:47:06Z"
+          "updated_at": "2026-02-22T23:32:40Z"
         },
         {
           "name": "blackroad-pi-ops",
@@ -1239,7 +1239,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-OS/blackroad-ecosystem-dashboard",
-          "updated_at": "2026-02-21T21:49:02Z"
+          "updated_at": "2026-02-22T23:32:14Z"
         },
         {
           "name": "alice",
@@ -1397,17 +1397,17 @@
           "name": "asia-blackroadio",
           "description": "🖤 Asia region portal at asia.blackroad.io",
           "visibility": "public",
-          "language": "HTML",
+          "language": "JavaScript",
           "url": "https://github.com/BlackRoad-OS/asia-blackroadio",
-          "updated_at": "2026-02-21T22:03:50Z"
+          "updated_at": "2026-02-23T00:14:22Z"
         },
         {
           "name": "agents-blackroadio",
           "description": "🖤 AI agents at agents.blackroad.io",
           "visibility": "public",
-          "language": "HTML",
+          "language": "JavaScript",
           "url": "https://github.com/BlackRoad-OS/agents-blackroadio",
-          "updated_at": "2026-02-21T22:03:49Z"
+          "updated_at": "2026-02-23T00:13:16Z"
         }
       ]
     },
@@ -1421,15 +1421,15 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Labs/.github",
-          "updated_at": "2026-02-21T22:02:23Z"
+          "updated_at": "2026-02-22T23:13:03Z"
         },
         {
           "name": "experiments",
           "description": "Experimental features and proof-of-concepts",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/experiments",
-          "updated_at": "2026-02-21T22:02:31Z"
+          "updated_at": "2026-02-22T23:52:35Z"
         },
         {
           "name": "research",
@@ -1437,7 +1437,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Labs/research",
-          "updated_at": "2026-02-21T22:02:32Z"
+          "updated_at": "2026-02-23T00:12:31Z"
         },
         {
           "name": "blackroad-jupyter",
@@ -1445,7 +1445,7 @@
           "visibility": "public",
           "language": "Jupyter Notebook",
           "url": "https://github.com/BlackRoad-Labs/blackroad-jupyter",
-          "updated_at": "2026-02-13T17:17:48Z"
+          "updated_at": "2026-02-22T23:51:17Z"
         },
         {
           "name": "blackroad-mlflow",
@@ -1453,7 +1453,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/blackroad-mlflow",
-          "updated_at": "2026-02-13T17:17:49Z"
+          "updated_at": "2026-02-22T23:51:12Z"
         },
         {
           "name": "blackroad-superset",
@@ -1461,7 +1461,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-Labs/blackroad-superset",
-          "updated_at": "2026-02-13T17:17:49Z"
+          "updated_at": "2026-02-22T23:51:17Z"
         },
         {
           "name": "blackroad-streamlit",
@@ -1469,7 +1469,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/blackroad-streamlit",
-          "updated_at": "2026-02-13T17:17:50Z"
+          "updated_at": "2026-02-22T23:51:15Z"
         },
         {
           "name": "blackroad-spark",
@@ -1477,7 +1477,7 @@
           "visibility": "public",
           "language": "Scala",
           "url": "https://github.com/BlackRoad-Labs/blackroad-spark",
-          "updated_at": "2026-02-13T17:17:51Z"
+          "updated_at": "2026-02-22T23:51:19Z"
         },
         {
           "name": "blackroad-dask",
@@ -1485,7 +1485,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/blackroad-dask",
-          "updated_at": "2026-02-13T17:17:51Z"
+          "updated_at": "2026-02-22T23:51:16Z"
         },
         {
           "name": "blackroad-airflow",
@@ -1493,7 +1493,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/blackroad-airflow",
-          "updated_at": "2026-02-13T17:17:52Z"
+          "updated_at": "2026-02-22T23:52:00Z"
         },
         {
           "name": "blackroad-panel",
@@ -1517,7 +1517,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Labs/blackroad-gradio",
-          "updated_at": "2026-02-13T17:17:54Z"
+          "updated_at": "2026-02-22T23:52:03Z"
         },
         {
           "name": "blackroad-dvc",
@@ -1587,15 +1587,15 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Cloud/.github",
-          "updated_at": "2026-02-21T21:58:20Z"
+          "updated_at": "2026-02-22T23:13:04Z"
         },
         {
           "name": "cloud-gateway",
           "description": "API gateway for BlackRoad cloud services",
           "visibility": "public",
-          "language": null,
+          "language": "TypeScript",
           "url": "https://github.com/BlackRoad-Cloud/cloud-gateway",
-          "updated_at": "2026-02-21T21:58:29Z"
+          "updated_at": "2026-02-22T23:56:05Z"
         },
         {
           "name": "k8s-operators",
@@ -1603,7 +1603,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Cloud/k8s-operators",
-          "updated_at": "2026-02-21T21:58:30Z"
+          "updated_at": "2026-02-22T23:38:07Z"
         },
         {
           "name": "blackroad-minio",
@@ -1611,7 +1611,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Cloud/blackroad-minio",
-          "updated_at": "2026-02-13T17:16:59Z"
+          "updated_at": "2026-02-22T23:52:45Z"
         },
         {
           "name": "blackroad-rclone",
@@ -1627,7 +1627,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Cloud/blackroad-caddy",
-          "updated_at": "2026-02-13T17:17:01Z"
+          "updated_at": "2026-02-22T23:52:44Z"
         },
         {
           "name": "blackroad-traefik",
@@ -1635,7 +1635,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Cloud/blackroad-traefik",
-          "updated_at": "2026-02-13T17:17:01Z"
+          "updated_at": "2026-02-22T23:51:42Z"
         },
         {
           "name": "blackroad-compose",
@@ -1651,7 +1651,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Cloud/blackroad-terraform",
-          "updated_at": "2026-02-13T17:17:03Z"
+          "updated_at": "2026-02-22T23:51:49Z"
         },
         {
           "name": "blackroad-vault",
@@ -1833,7 +1833,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Ventures/.github",
-          "updated_at": "2026-02-21T22:02:59Z"
+          "updated_at": "2026-02-22T23:14:43Z"
         },
         {
           "name": "portfolio",
@@ -1841,7 +1841,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Ventures/portfolio",
-          "updated_at": "2026-02-21T22:03:04Z"
+          "updated_at": "2026-02-22T23:47:03Z"
         },
         {
           "name": "partnerships",
@@ -1849,7 +1849,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Ventures/partnerships",
-          "updated_at": "2026-02-21T22:03:05Z"
+          "updated_at": "2026-02-23T00:11:33Z"
         },
         {
           "name": "blackroad-btcpay",
@@ -1857,7 +1857,7 @@
           "visibility": "public",
           "language": "C#",
           "url": "https://github.com/BlackRoad-Ventures/blackroad-btcpay",
-          "updated_at": "2026-02-13T17:20:03Z"
+          "updated_at": "2026-02-22T23:51:27Z"
         },
         {
           "name": "blackroad-plausible",
@@ -1865,7 +1865,7 @@
           "visibility": "public",
           "language": "Elixir",
           "url": "https://github.com/BlackRoad-Ventures/blackroad-plausible",
-          "updated_at": "2026-02-13T17:27:48Z"
+          "updated_at": "2026-02-22T23:52:16Z"
         },
         {
           "name": "blackroad-firefly",
@@ -1873,7 +1873,7 @@
           "visibility": "public",
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Ventures/blackroad-firefly",
-          "updated_at": "2026-02-13T17:27:49Z"
+          "updated_at": "2026-02-22T23:51:28Z"
         },
         {
           "name": "blackroad-maybe",
@@ -1889,7 +1889,7 @@
           "visibility": "public",
           "language": "Java",
           "url": "https://github.com/BlackRoad-Ventures/blackroad-killbill",
-          "updated_at": "2026-02-13T17:27:50Z"
+          "updated_at": "2026-02-22T23:52:18Z"
         },
         {
           "name": "blackroad-crater",
@@ -1975,7 +1975,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Foundation/.github",
-          "updated_at": "2026-02-21T21:59:10Z"
+          "updated_at": "2026-02-22T23:13:04Z"
         },
         {
           "name": "governance",
@@ -1983,7 +1983,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Foundation/governance",
-          "updated_at": "2026-02-21T21:59:24Z"
+          "updated_at": "2026-02-22T23:41:43Z"
         },
         {
           "name": "community",
@@ -1991,7 +1991,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Foundation/community",
-          "updated_at": "2026-02-21T21:59:28Z"
+          "updated_at": "2026-02-22T23:41:45Z"
         },
         {
           "name": "blackroad-espocrm",
@@ -1999,7 +1999,7 @@
           "visibility": "public",
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Foundation/blackroad-espocrm",
-          "updated_at": "2026-02-13T17:17:17Z"
+          "updated_at": "2026-02-22T23:49:51Z"
         },
         {
           "name": "blackroad-invoiceninja",
@@ -2007,7 +2007,7 @@
           "visibility": "public",
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Foundation/blackroad-invoiceninja",
-          "updated_at": "2026-02-13T17:17:18Z"
+          "updated_at": "2026-02-22T23:49:51Z"
         },
         {
           "name": "blackroad-dolibarr",
@@ -2015,7 +2015,7 @@
           "visibility": "public",
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Foundation/blackroad-dolibarr",
-          "updated_at": "2026-02-13T17:17:19Z"
+          "updated_at": "2026-02-22T23:49:53Z"
         },
         {
           "name": "blackroad-nocodb",
@@ -2023,7 +2023,7 @@
           "visibility": "public",
           "language": "TypeScript",
           "url": "https://github.com/BlackRoad-Foundation/blackroad-nocodb",
-          "updated_at": "2026-02-13T17:17:20Z"
+          "updated_at": "2026-02-22T23:49:55Z"
         },
         {
           "name": "blackroad-metabase",
@@ -2031,7 +2031,7 @@
           "visibility": "public",
           "language": "Clojure",
           "url": "https://github.com/BlackRoad-Foundation/blackroad-metabase",
-          "updated_at": "2026-02-13T17:17:20Z"
+          "updated_at": "2026-02-22T23:49:57Z"
         },
         {
           "name": "blackroad-firefly-accounting",
@@ -2221,23 +2221,23 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Media/.github",
-          "updated_at": "2026-02-21T22:00:03Z"
+          "updated_at": "2026-02-22T23:13:04Z"
         },
         {
           "name": "brand-kit",
           "description": "Brand guidelines, logos, and design assets",
           "visibility": "public",
-          "language": null,
+          "language": "CSS",
           "url": "https://github.com/BlackRoad-Media/brand-kit",
-          "updated_at": "2026-02-21T22:00:18Z"
+          "updated_at": "2026-02-22T23:41:03Z"
         },
         {
           "name": "content",
           "description": "Marketing content and media resources",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-Media/content",
-          "updated_at": "2026-02-21T22:00:19Z"
+          "updated_at": "2026-02-22T23:54:14Z"
         },
         {
           "name": "blackroad-mastodon",
@@ -2245,7 +2245,7 @@
           "visibility": "public",
           "language": "Ruby",
           "url": "https://github.com/BlackRoad-Media/blackroad-mastodon",
-          "updated_at": "2026-02-13T17:17:56Z"
+          "updated_at": "2026-02-22T23:51:32Z"
         },
         {
           "name": "blackroad-pixelfed",
@@ -2253,7 +2253,7 @@
           "visibility": "public",
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Media/blackroad-pixelfed",
-          "updated_at": "2026-02-13T17:17:56Z"
+          "updated_at": "2026-02-22T23:52:29Z"
         },
         {
           "name": "blackroad-bigbluebutton",
@@ -2269,7 +2269,7 @@
           "visibility": "public",
           "language": "Ruby",
           "url": "https://github.com/BlackRoad-Media/blackroad-discourse",
-          "updated_at": "2026-02-13T17:17:58Z"
+          "updated_at": "2026-02-22T23:52:38Z"
         },
         {
           "name": "blackroad-matrix",
@@ -2277,7 +2277,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Media/blackroad-matrix",
-          "updated_at": "2026-02-13T17:17:58Z"
+          "updated_at": "2026-02-22T23:51:35Z"
         },
         {
           "name": "blackroad-photoprism",
@@ -2459,23 +2459,23 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Hardware/.github",
-          "updated_at": "2026-02-21T21:59:37Z"
+          "updated_at": "2026-02-22T23:13:04Z"
         },
         {
           "name": "hardware-specs",
           "description": "Hardware specifications and requirements",
           "visibility": "public",
-          "language": null,
+          "language": "Shell",
           "url": "https://github.com/BlackRoad-Hardware/hardware-specs",
-          "updated_at": "2026-02-21T21:59:49Z"
+          "updated_at": "2026-02-22T23:56:33Z"
         },
         {
           "name": "firmware",
           "description": "Firmware and embedded system code",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-Hardware/firmware",
-          "updated_at": "2026-02-21T21:59:49Z"
+          "updated_at": "2026-02-22T23:40:23Z"
         },
         {
           "name": "blackroad-node-red",
@@ -2483,7 +2483,7 @@
           "visibility": "public",
           "language": "JavaScript",
           "url": "https://github.com/BlackRoad-Hardware/blackroad-node-red",
-          "updated_at": "2026-02-13T17:17:32Z"
+          "updated_at": "2026-02-22T23:51:37Z"
         },
         {
           "name": "blackroad-home-assistant",
@@ -2491,7 +2491,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Hardware/blackroad-home-assistant",
-          "updated_at": "2026-02-13T17:17:32Z"
+          "updated_at": "2026-02-22T23:51:41Z"
         },
         {
           "name": "blackroad-esphome",
@@ -2499,7 +2499,7 @@
           "visibility": "public",
           "language": "C++",
           "url": "https://github.com/BlackRoad-Hardware/blackroad-esphome",
-          "updated_at": "2026-02-13T17:17:33Z"
+          "updated_at": "2026-02-22T23:52:34Z"
         },
         {
           "name": "blackroad-tasmota",
@@ -2523,7 +2523,7 @@
           "visibility": "public",
           "language": "Erlang",
           "url": "https://github.com/BlackRoad-Hardware/blackroad-emqx",
-          "updated_at": "2026-02-13T17:17:35Z"
+          "updated_at": "2026-02-22T23:52:38Z"
         },
         {
           "name": "blackroad-mosquitto",
@@ -2705,7 +2705,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Education/.github",
-          "updated_at": "2026-02-21T22:00:57Z"
+          "updated_at": "2026-02-22T23:14:42Z"
         },
         {
           "name": "tutorials",
@@ -2713,7 +2713,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Education/tutorials",
-          "updated_at": "2026-02-21T22:01:09Z"
+          "updated_at": "2026-02-23T00:11:33Z"
         },
         {
           "name": "courses",
@@ -2721,7 +2721,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Education/courses",
-          "updated_at": "2026-02-21T22:01:10Z"
+          "updated_at": "2026-02-22T23:46:45Z"
         },
         {
           "name": "blackroad-moodle",
@@ -2729,7 +2729,7 @@
           "visibility": "public",
           "language": "PHP",
           "url": "https://github.com/BlackRoad-Education/blackroad-moodle",
-          "updated_at": "2026-02-13T17:17:12Z"
+          "updated_at": "2026-02-22T23:51:27Z"
         },
         {
           "name": "blackroad-oppia",
@@ -2745,7 +2745,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Education/blackroad-openedx",
-          "updated_at": "2026-02-13T17:17:14Z"
+          "updated_at": "2026-02-22T23:51:22Z"
         },
         {
           "name": "blackroad-kolibri",
@@ -2753,7 +2753,7 @@
           "visibility": "public",
           "language": "CSS",
           "url": "https://github.com/BlackRoad-Education/blackroad-kolibri",
-          "updated_at": "2026-02-13T17:17:14Z"
+          "updated_at": "2026-02-22T23:52:07Z"
         },
         {
           "name": "blackroad-anki",
@@ -2761,7 +2761,7 @@
           "visibility": "public",
           "language": "Kotlin",
           "url": "https://github.com/BlackRoad-Education/blackroad-anki",
-          "updated_at": "2026-02-13T17:17:15Z"
+          "updated_at": "2026-02-22T23:52:11Z"
         },
         {
           "name": "blackroad-chamilo",
@@ -2903,7 +2903,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Gov/.github",
-          "updated_at": "2026-02-21T22:01:19Z"
+          "updated_at": "2026-02-22T23:14:42Z"
         },
         {
           "name": "compliance-framework",
@@ -2911,15 +2911,15 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Gov/compliance-framework",
-          "updated_at": "2026-02-21T22:01:35Z"
+          "updated_at": "2026-02-22T23:46:46Z"
         },
         {
           "name": "audit-tools",
           "description": "Auditing and verification tools",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-Gov/audit-tools",
-          "updated_at": "2026-02-21T22:01:34Z"
+          "updated_at": "2026-02-22T23:54:40Z"
         },
         {
           "name": "blackroad-snapshot",
@@ -2927,7 +2927,7 @@
           "visibility": "public",
           "language": "Vue",
           "url": "https://github.com/BlackRoad-Gov/blackroad-snapshot",
-          "updated_at": "2026-02-13T17:17:27Z"
+          "updated_at": "2026-02-22T23:51:25Z"
         },
         {
           "name": "blackroad-decidim",
@@ -2935,7 +2935,7 @@
           "visibility": "public",
           "language": "Ruby",
           "url": "https://github.com/BlackRoad-Gov/blackroad-decidim",
-          "updated_at": "2026-02-13T17:17:28Z"
+          "updated_at": "2026-02-22T23:51:23Z"
         },
         {
           "name": "blackroad-vocdoni",
@@ -2943,7 +2943,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Gov/blackroad-vocdoni",
-          "updated_at": "2026-02-13T17:17:28Z"
+          "updated_at": "2026-02-22T23:52:11Z"
         },
         {
           "name": "blackroad-aragon",
@@ -2951,7 +2951,7 @@
           "visibility": "public",
           "language": "JavaScript",
           "url": "https://github.com/BlackRoad-Gov/blackroad-aragon",
-          "updated_at": "2026-02-13T17:17:29Z"
+          "updated_at": "2026-02-22T23:52:13Z"
         },
         {
           "name": "blackroad-consul-gov",
@@ -3093,23 +3093,23 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Security/.github",
-          "updated_at": "2026-02-21T21:58:44Z"
+          "updated_at": "2026-02-22T23:13:04Z"
         },
         {
           "name": "security-audits",
           "description": "Security audit reports and findings",
           "visibility": "public",
-          "language": null,
+          "language": "Shell",
           "url": "https://github.com/BlackRoad-Security/security-audits",
-          "updated_at": "2026-02-21T21:58:56Z"
+          "updated_at": "2026-02-22T23:55:44Z"
         },
         {
           "name": "penetration-testing",
           "description": "Penetration testing tools and methodologies",
           "visibility": "public",
-          "language": null,
+          "language": "Shell",
           "url": "https://github.com/BlackRoad-Security/penetration-testing",
-          "updated_at": "2026-02-21T21:58:55Z"
+          "updated_at": "2026-02-23T00:13:56Z"
         },
         {
           "name": "blackroad-openbao",
@@ -3125,7 +3125,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Security/blackroad-trufflehog",
-          "updated_at": "2026-02-13T17:19:48Z"
+          "updated_at": "2026-02-22T23:51:40Z"
         },
         {
           "name": "blackroad-trivy",
@@ -3133,7 +3133,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Security/blackroad-trivy",
-          "updated_at": "2026-02-13T17:19:49Z"
+          "updated_at": "2026-02-22T23:51:42Z"
         },
         {
           "name": "blackroad-sops-new",
@@ -3141,7 +3141,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Security/blackroad-sops-new",
-          "updated_at": "2026-02-13T17:19:50Z"
+          "updated_at": "2026-02-22T23:52:44Z"
         },
         {
           "name": "blackroad-grype",
@@ -3149,7 +3149,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Security/blackroad-grype",
-          "updated_at": "2026-02-13T17:19:51Z"
+          "updated_at": "2026-02-22T23:52:45Z"
         },
         {
           "name": "blackroad-zap",
@@ -3339,23 +3339,23 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Interactive/.github",
-          "updated_at": "2026-02-21T22:00:30Z"
+          "updated_at": "2026-02-22T23:14:43Z"
         },
         {
           "name": "interactive-core",
           "description": "Core framework for interactive experiences",
           "visibility": "public",
-          "language": null,
+          "language": "TypeScript",
           "url": "https://github.com/BlackRoad-Interactive/interactive-core",
-          "updated_at": "2026-02-21T22:00:43Z"
+          "updated_at": "2026-02-22T23:53:20Z"
         },
         {
           "name": "examples",
           "description": "Example interactive applications",
           "visibility": "public",
-          "language": null,
+          "language": "HTML",
           "url": "https://github.com/BlackRoad-Interactive/examples",
-          "updated_at": "2026-02-21T22:00:42Z"
+          "updated_at": "2026-02-22T23:53:43Z"
         },
         {
           "name": "blackroad-threejs",
@@ -3363,7 +3363,7 @@
           "visibility": "public",
           "language": "JavaScript",
           "url": "https://github.com/BlackRoad-Interactive/blackroad-threejs",
-          "updated_at": "2026-02-13T17:17:39Z"
+          "updated_at": "2026-02-22T23:51:30Z"
         },
         {
           "name": "blackroad-godot",
@@ -3371,7 +3371,7 @@
           "visibility": "public",
           "language": "C++",
           "url": "https://github.com/BlackRoad-Interactive/blackroad-godot",
-          "updated_at": "2026-02-13T17:17:40Z"
+          "updated_at": "2026-02-22T23:51:30Z"
         },
         {
           "name": "blackroad-bevy",
@@ -3379,7 +3379,7 @@
           "visibility": "public",
           "language": "Rust",
           "url": "https://github.com/BlackRoad-Interactive/blackroad-bevy",
-          "updated_at": "2026-02-13T17:17:40Z"
+          "updated_at": "2026-02-22T23:52:20Z"
         },
         {
           "name": "blackroad-cocos",
@@ -3387,7 +3387,7 @@
           "visibility": "public",
           "language": "C++",
           "url": "https://github.com/BlackRoad-Interactive/blackroad-cocos",
-          "updated_at": "2026-02-13T17:17:41Z"
+          "updated_at": "2026-02-22T23:52:24Z"
         },
         {
           "name": "blackroad-o3de",
@@ -3577,7 +3577,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Archive/.github",
-          "updated_at": "2026-02-21T22:02:03Z"
+          "updated_at": "2026-02-22T23:14:43Z"
         },
         {
           "name": "archive-core",
@@ -3585,15 +3585,15 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Archive/archive-core",
-          "updated_at": "2026-02-21T22:02:12Z"
+          "updated_at": "2026-02-22T23:47:28Z"
         },
         {
           "name": "snapshot-service",
           "description": "Automated snapshot and versioning service",
           "visibility": "public",
-          "language": null,
+          "language": "Python",
           "url": "https://github.com/BlackRoad-Archive/snapshot-service",
-          "updated_at": "2026-02-21T22:02:13Z"
+          "updated_at": "2026-02-22T23:52:55Z"
         },
         {
           "name": "blackroad-ipfs",
@@ -3601,7 +3601,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Archive/blackroad-ipfs",
-          "updated_at": "2026-02-13T17:16:54Z"
+          "updated_at": "2026-02-22T23:51:33Z"
         },
         {
           "name": "blackroad-openlibrary",
@@ -3617,7 +3617,7 @@
           "visibility": "public",
           "language": "Go",
           "url": "https://github.com/BlackRoad-Archive/blackroad-filecoin",
-          "updated_at": "2026-02-13T17:16:55Z"
+          "updated_at": "2026-02-22T23:52:25Z"
         },
         {
           "name": "blackroad-paperless",
@@ -3625,7 +3625,7 @@
           "visibility": "public",
           "language": "Python",
           "url": "https://github.com/BlackRoad-Archive/blackroad-paperless",
-          "updated_at": "2026-02-13T17:16:56Z"
+          "updated_at": "2026-02-22T23:51:30Z"
         },
         {
           "name": "blackroad-zotero",
@@ -3633,7 +3633,7 @@
           "visibility": "public",
           "language": "JavaScript",
           "url": "https://github.com/BlackRoad-Archive/blackroad-zotero",
-          "updated_at": "2026-02-13T17:16:57Z"
+          "updated_at": "2026-02-22T23:52:27Z"
         },
         {
           "name": "blackroad-archivy",
@@ -3751,23 +3751,23 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Studio/.github",
-          "updated_at": "2026-02-21T22:02:41Z"
+          "updated_at": "2026-02-22T23:14:42Z"
         },
         {
           "name": "studio-core",
           "description": "Core studio tools and frameworks",
           "visibility": "public",
-          "language": null,
+          "language": "Shell",
           "url": "https://github.com/BlackRoad-Studio/studio-core",
-          "updated_at": "2026-02-21T22:02:48Z"
+          "updated_at": "2026-02-22T23:42:02Z"
         },
         {
           "name": "templates",
           "description": "Project templates and scaffolding tools",
           "visibility": "public",
-          "language": null,
+          "language": "Shell",
           "url": "https://github.com/BlackRoad-Studio/templates",
-          "updated_at": "2026-02-21T22:02:49Z"
+          "updated_at": "2026-02-22T23:42:03Z"
         },
         {
           "name": "blackroad-penpot",
@@ -3775,7 +3775,7 @@
           "visibility": "public",
           "language": "Clojure",
           "url": "https://github.com/BlackRoad-Studio/blackroad-penpot",
-          "updated_at": "2026-02-13T17:19:58Z"
+          "updated_at": "2026-02-22T23:51:20Z"
         },
         {
           "name": "blackroad-krita",
@@ -3783,7 +3783,7 @@
           "visibility": "public",
           "language": "C++",
           "url": "https://github.com/BlackRoad-Studio/blackroad-krita",
-          "updated_at": "2026-02-13T17:19:58Z"
+          "updated_at": "2026-02-22T23:51:18Z"
         },
         {
           "name": "blackroad-inkscape",
@@ -3791,7 +3791,7 @@
           "visibility": "public",
           "language": null,
           "url": "https://github.com/BlackRoad-Studio/blackroad-inkscape",
-          "updated_at": "2026-02-13T17:19:59Z"
+          "updated_at": "2026-02-22T23:52:02Z"
         },
         {
           "name": "blackroad-blender",
@@ -3799,7 +3799,7 @@
           "visibility": "public",
           "language": "C++",
           "url": "https://github.com/BlackRoad-Studio/blackroad-blender",
-          "updated_at": "2026-02-13T17:20:00Z"
+          "updated_at": "2026-02-22T23:52:06Z"
         },
         {
           "name": "blackroad-freecad",
