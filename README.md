@@ -1,89 +1,48 @@
+<!-- BlackRoad SEO Enhanced -->
+
 # index
 
-[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/index)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/index)
-[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+> Part of **[BlackRoad OS](https://blackroad.io)** — Sovereign Computing for Everyone
 
-# 🛣️ BlackRoad Empire Index
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad-OS-ff1d6c?style=for-the-badge)](https://blackroad.io)
+[![BlackRoad OS](https://img.shields.io/badge/Org-BlackRoad-OS-2979ff?style=for-the-badge)](https://github.com/BlackRoad-OS)
+[![License](https://img.shields.io/badge/License-Proprietary-f5a623?style=for-the-badge)](LICENSE)
 
-> **Master index of all BlackRoad organizations, repositories, and infrastructure**
+**index** is part of the **BlackRoad OS** ecosystem — a sovereign, distributed operating system built on edge computing, local AI, and mesh networking by **BlackRoad OS, Inc.**
 
-[![Auto-Update](https://github.com/BlackRoad-OS/index/actions/workflows/update-index.yml/badge.svg)](https://github.com/BlackRoad-OS/index/actions/workflows/update-index.yml)
+## About BlackRoad OS
 
-## 🌐 [View Full Internet Map →](./INTERNET.md)
+BlackRoad OS is a sovereign computing platform that runs AI locally on your own hardware. No cloud dependencies. No API keys. No surveillance. Built by [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc), a Delaware C-Corp founded in 2025.
 
----
+### Key Features
+- **Local AI** — Run LLMs on Raspberry Pi, Hailo-8, and commodity hardware
+- **Mesh Networking** — WireGuard VPN, NATS pub/sub, peer-to-peer communication
+- **Edge Computing** — 52 TOPS of AI acceleration across a Pi fleet
+- **Self-Hosted Everything** — Git, DNS, storage, CI/CD, chat — all sovereign
+- **Zero Cloud Dependencies** — Your data stays on your hardware
 
-## 📊 Quick Stats
+### The BlackRoad Ecosystem
+| Organization | Focus |
+|---|---|
+| [BlackRoad OS](https://github.com/BlackRoad-OS) | Core platform and applications |
+| [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) | Corporate and enterprise |
+| [BlackRoad AI](https://github.com/BlackRoad-AI) | Artificial intelligence and ML |
+| [BlackRoad Hardware](https://github.com/BlackRoad-Hardware) | Edge hardware and IoT |
+| [BlackRoad Security](https://github.com/BlackRoad-Security) | Cybersecurity and auditing |
+| [BlackRoad Quantum](https://github.com/BlackRoad-Quantum) | Quantum computing research |
+| [BlackRoad Agents](https://github.com/BlackRoad-Agents) | Autonomous AI agents |
+| [BlackRoad Network](https://github.com/BlackRoad-Network) | Mesh and distributed networking |
+| [BlackRoad Education](https://github.com/BlackRoad-Education) | Learning and tutoring platforms |
+| [BlackRoad Labs](https://github.com/BlackRoad-Labs) | Research and experiments |
+| [BlackRoad Cloud](https://github.com/BlackRoad-Cloud) | Self-hosted cloud infrastructure |
+| [BlackRoad Forge](https://github.com/BlackRoad-Forge) | Developer tools and utilities |
 
-| Metric | Count |
-|--------|-------|
-| **GitHub Organizations** | 15 |
-| **Total Repositories** | 315+ |
-| **Cloudflare Workers** | 82 |
-| **D1 Databases** | 11 |
-| **KV Namespaces** | 20 |
-| **R2 Buckets** | 9 |
-| **Domains** | 21 |
-| **Stripe Products** | 11 |
-| **HuggingFace Models** | 50+ |
-
----
-
-## 🏢 Organizations
-
-| Org | Repos | Focus |
-|-----|-------|-------|
-| [BlackRoad-OS](./orgs/BlackRoad-OS.md) | 100 | Core infrastructure |
-| [BlackRoad-AI](./orgs/BlackRoad-AI.md) | 52 | AI models & tools |
-| [BlackRoad-Cloud](./orgs/BlackRoad-Cloud.md) | 20 | Cloud infrastructure |
-| [BlackRoad-Security](./orgs/BlackRoad-Security.md) | 17 | Security tools |
-| [BlackRoad-Media](./orgs/BlackRoad-Media.md) | 17 | Media platforms |
-| [BlackRoad-Foundation](./orgs/BlackRoad-Foundation.md) | 15 | Core tools |
-| [BlackRoad-Interactive](./orgs/BlackRoad-Interactive.md) | 14 | Gaming |
-| [BlackRoad-Labs](./orgs/BlackRoad-Labs.md) | 13 | R&D |
-| [BlackRoad-Hardware](./orgs/BlackRoad-Hardware.md) | 13 | IoT & devices |
-| [BlackRoad-Studio](./orgs/BlackRoad-Studio.md) | 13 | Creative tools |
-| [BlackRoad-Ventures](./orgs/BlackRoad-Ventures.md) | 12 | Business tools |
-| [BlackRoad-Education](./orgs/BlackRoad-Education.md) | 11 | Learning |
-| [BlackRoad-Gov](./orgs/BlackRoad-Gov.md) | 10 | Governance |
-| [Blackbox-Enterprises](./orgs/Blackbox-Enterprises.md) | 9 | Stealth R&D |
-| [BlackRoad-Archive](./orgs/BlackRoad-Archive.md) | 9 | Data preservation |
+### Links
+- **Website**: [blackroad.io](https://blackroad.io)
+- **Documentation**: [docs.blackroad.io](https://docs.blackroad.io)
+- **Chat**: [chat.blackroad.io](https://chat.blackroad.io)
+- **Search**: [search.blackroad.io](https://search.blackroad.io)
 
 ---
 
-## 🔗 Infrastructure
 
-| Layer | Docs |
-|-------|------|
-| Workers | [workers/](./workers/) |
-| Databases | [databases/](./databases/) |
-| Domains | [domains/](./domains/) |
-| Services | [services/](./services/) |
-
----
-
-## 🤖 For AI Assistants
-
-**[Read CLAUDE.md →](./CLAUDE.md)**
-
-```sql
--- Get GitHub token
-SELECT value FROM secrets WHERE key = 'GITHUB_TOKEN'
--- Database: f0721506-cb52-41ee-b587-38f7b42b97d9
-```
-
----
-
-## 📁 Files
-
-| File | Purpose |
-|------|---------|
-| [INTERNET.md](./INTERNET.md) | Full infrastructure map |
-| [CLAUDE.md](./CLAUDE.md) | AI assistant instructions |
-| [index.json](./index.json) | Machine-readable org/repo index |
-| [infrastructure.json](./infrastructure.json) | Full infrastructure data |
-
----
-
-*Auto-updated daily • [BlackRoad OS, Inc.](https://blackroad.io)*
